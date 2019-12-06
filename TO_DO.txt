@@ -1,0 +1,3 @@
+Make persistent changes to /etc/hosts thru /etc/cloud/templates/host.debian.tmpl
+
+

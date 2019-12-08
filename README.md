@@ -11,7 +11,7 @@
 
 ---
 
-Created this cluster by following along with *Kubernetes Up and Running By Hightower, Burns , Beda*, *kubernetes.io/docs/home/*, and *docs.docker.com*.
+Created this cluster by following along with *Kubernetes Up and Running By Hightower, Burns , Beda*, *kubernetes.io/docs/home/*, *docs.docker.com*, and *https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/*
 
 ---
 
@@ -19,7 +19,8 @@ Created this cluster by following along with *Kubernetes Up and Running By Hight
 The `master` node doubles as the Kubernetes Master, and responsible for handing out IP addresses as a `isc-dhcp-server`. 
 Then the rest of the 5 nodes, `node-(2-5)` are the workers. 
 
-Currently in use just for creating, testing, and learning about containerized applications. 
+Currently in use just for creating, testing, and learning about containerized applications and orchestration.  
+
 
 
 <h2>Notes</h2>

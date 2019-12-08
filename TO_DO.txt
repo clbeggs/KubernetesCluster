@@ -1,3 +1,12 @@
-Make persistent changes to /etc/hosts thru /etc/cloud/templates/host.debian.tmpl
+
+
+#Make persistent changes to /etc/hosts thru /etc/cloud/templates/host.debian.tmpl
+Done
+
+#Finish kube install after 10.0.0.3
+Done
+
+Problems with kubectl get nodes -> connection refused
+rc.local doesnt run on startup, find equivalent
 
 
